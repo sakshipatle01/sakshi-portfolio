@@ -55,9 +55,7 @@ Grade: First Class Distinction
 
 ## Live Demo
 
-Add your GitHub Pages link here:
-
-https://your-portfolio-link
+https://github.com/sakshipatle01/sakshi-portfolio.git
 
 ## Connect With Me
 
