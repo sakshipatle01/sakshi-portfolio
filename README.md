@@ -59,9 +59,9 @@ https://github.com/sakshipatle01/sakshi-portfolio.git
 
 ## Connect With Me
 
-LinkedIn: Add Your LinkedIn Link
+LinkedIn: https://www.linkedin.com/in/sakshi-patle-2a238226b
 
-GitHub: Add Your GitHub Link
+GitHub: https://github.com/sakshipatle01
 
 Email: sakshipatle59@gmail.com
 
